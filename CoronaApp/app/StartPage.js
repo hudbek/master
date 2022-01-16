@@ -2,7 +2,6 @@ import { StatusBar } from 'expo-status-bar';
 import React, { Component } from 'react';
 import { Animated, StyleSheet, Text, View } from 'react-native';
 
-
 class StartPage extends Component{
   constructor(props) {
     super(props);
